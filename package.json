@@ -1,0 +1,23 @@
+{
+  "name": "test-sorted-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgataHerbst/test-sorted-table.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgataHerbst/test-sorted-table/issues"
+  },
+  "homepage": "https://github.com/AgataHerbst/test-sorted-table#readme"
+}
