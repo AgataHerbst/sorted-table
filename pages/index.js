@@ -1,6 +1,6 @@
 import Header from '../components/Header';
 import Tbody from '../components/Tbody';
-import s from './Index.module.css';
+import s from './index.module.css';
 import {ErrorBoundary} from 'react-error-boundary';
 import {ErrorFallBack} from '../components/ErrorFallBack';
 
