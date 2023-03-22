@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/AgataHerbst/test-sorted-table/issues"
   },
-  "homepage": "https://github.com/AgataHerbst/test-sorted-table#readme"
+  "homepage": "https://github.com/AgataHerbst/test-sorted-table#readme",
+  "dependencies": {
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-error-boundary": "^4.0.0"
+  }
 }
